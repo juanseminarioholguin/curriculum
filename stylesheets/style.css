@@ -5,3 +5,30 @@
   h1 {
     font-style: italic
   }
+
+  #title {
+    color: darkgrey;
+  }
+
+  h2 {
+    font-family: 'Lucida Sans Unicode',
+  }
+
+  a {
+    text-decoration: None
+  }
+
+  p {
+    text-align: center
+  }
+
+  .seccion {
+    border: 0.8pt  #c1bdbd solid;
+    background-color: #f4f8fd;
+    box-shadow: 0 1px 6px rgb(0 0 0 / 12%), 0 1px 4px rgb(0 0 0 / 24%);
+  }
+
+  #seccionidiomas table {
+    margin: 0 auto;
+    
+  }
